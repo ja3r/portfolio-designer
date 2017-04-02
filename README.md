@@ -1,12 +1,12 @@
 # portfolio-generator
 
-> A simple Vue.js app that allows you to customize a pre-made portfolio website for yourself.
+> A simple Vue.js app that allows you to customize a pre-made portfolio website for yourself. [Live](https://portfolio-designer.jaerq.com/)
 
--1. Download the core files.
+1. Download the core files.
 
--2. Make your desired changes.
+2. Make your desired changes.
 
--3. Use the website for your needs!
+3. Use the website for your needs!
 
 ## Build Setup
 
